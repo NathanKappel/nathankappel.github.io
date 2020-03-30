@@ -2,25 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a9c9b92-e8b8-4216-9367-b8499c4fd1a4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/education.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-home-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog-home-1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-home-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog-home-2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-post.html" beforeDir="false" afterPath="$PROJECT_DIR$/resume.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/faq.html" beforeDir="false" afterPath="$PROJECT_DIR$/faq.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/full-width.html" beforeDir="false" afterPath="$PROJECT_DIR$/full-width.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-1-col.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-1-col.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-2-col.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-2-col.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-3-col.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-3-col.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-4-col.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-4-col.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-item.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-item.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pricing.html" beforeDir="false" afterPath="$PROJECT_DIR$/pricing.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/services.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/sidebar.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -36,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-414">
-              <caret line="145" column="25" selection-start-line="145" selection-start-column="25" selection-end-line="145" selection-end-column="25" />
+            <state relative-caret-position="425">
+              <caret line="25" column="57" selection-start-line="25" selection-start-column="57" selection-end-line="25" selection-end-column="57" />
               <folding>
                 <element signature="n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
               </folding>
@@ -167,12 +149,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585518919815</updated>
-      <workItem from="1585518921740" duration="2636000" />
+      <workItem from="1585518921740" duration="2694000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2636000" />
+    <option name="totallyTimeSpent" value="2694000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
@@ -240,8 +222,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-414">
-          <caret line="145" column="25" selection-start-line="145" selection-start-column="25" selection-end-line="145" selection-end-column="25" />
+        <state relative-caret-position="425">
+          <caret line="25" column="57" selection-start-line="25" selection-start-column="57" selection-end-line="25" selection-end-column="57" />
           <folding>
             <element signature="n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
           </folding>
