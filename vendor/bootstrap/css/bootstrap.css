@@ -6238,6 +6238,8 @@ a.close.disabled {
   position: relative;
   display: none;
   float: left;
+  min-width: 1900px;
+  min-height: 1080px;
   width: 100%;
   margin-right: -100%;
   -webkit-backface-visibility: hidden;
